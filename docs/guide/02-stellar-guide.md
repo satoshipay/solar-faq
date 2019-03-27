@@ -38,7 +38,7 @@ Beyond the native asset, lumens, the Stellar network can be also be used to trac
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cf9CdFVse-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Stellar Decentralized Exchange
+## Decentralized Exchange
 
 The Stellar Decentralized Exchange (DEX) is a the place where Stellar traders can trade assets via the Stellar protocol. The DEX features an orderbook, matchmaking, and transaction settlement right at the protocol level. Watch the following video by Lumenauts for further information:
 
@@ -51,5 +51,5 @@ Signatures are used for authorizing transactions on the Stellar network. Most tr
 "Multi-signature" refers to a situation in which more than one signatures are required for authorization of a transaction. This can be used to secure an account with by requiring a number of people to sign a transaction before it is executed.
 
 Click the following link to learn more about multi-signature:
-<https://www.stellar.org/developers/guides/concepts/multi-sig.html>
+[stellar.org/developers/guides/concepts/multi-sig.html](https://www.stellar.org/developers/guides/concepts/multi-sig.html)
 
