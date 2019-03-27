@@ -3,52 +3,6 @@ title: Solar Wallet Guide
 ---
 # Solar Wallet Guide
 
-## Account Management
-
-### Create Stellar Account
-
-1. Select "Add new".
-
-![null](/images/screen-shot-2019-03-04-at-11.47.22.png)
-
-2. Click on the field near the "pen" icon and type in the name you want for your account. Create a password and repeat it in the blanks (optional, but highly recommended). Select "Create Account" to confirm it.
-
-::: warning
-We cannot recover your password! So please make sure you can remember it.
-:::
-
-![null](/images/rename-again.png)
-
-3. Your account is now ready for receiving payments! Select "Receive" to find the public key of your account.
-
-### Import Account
-
-1. Select “Add new”.
-2. Name your account by typing in the field near the “pen icon”. Create a password and repeat it in the blanks (optional, but highly recommended!). Click the toggle switch button near “Import Existing” and type in your secret key in the blank below. Select "Import Account" to confirm it.
-
-![null](/images/rename-again.png)
-
-### Export Secret Key
-
-1. Go to the relevant account’s settings (click the “setting” icon on the top right corner on the account overview). 
-
-2.Select "Export secret key". 
-
-3. Type in your password in the blank and select the button “Click to Reveal Your Secret Key”. If you do not have a password, simply select the button “Click to Reveal Your Secret Key”.
-
-![null](/images/personal-safe-again.png)
-
-4. Your secret key is revealed in plaintext. Please keep this text safe as this unencrypted secret key gives anybody access to your funds.
-
-### Remove Password
-
-1. Go to the relevant account’s settings (click the “setting” icon on the top right corner on the account overview). Select “Change password”.
-2. On the bottom left corner of the small window, click the toggle switch next to “Remove password”.
-3. Type in your current password and select “Remove Password” to confirm the removal of your password.
-
-### Account View
-
-![null](/images/review-picture-again.png)
 
 ## Payments
 
